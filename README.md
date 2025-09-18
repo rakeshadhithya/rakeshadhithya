@@ -8,7 +8,7 @@ I enjoy working on both **academic and personal projects**, and I’m always lea
 
 ## 🟨 Java Projects (J2SE)
 
-- [musicplayer] (https://github.com/rakeshadhithya/musicplayer-lld)
+- [musicplayer](https://github.com/rakeshadhithya/musicplayer-lld)
 
 ## 🟧 Advanced Java Projects (J2EE)
 
