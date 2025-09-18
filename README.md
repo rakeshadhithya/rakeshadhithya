@@ -14,7 +14,7 @@ I enjoy working on both **academic and personal projects**, and I’m always lea
 
 - [notesapp](https://github.com/rakeshadhithya/notesapp)
 
-- [crudwithjdbc] (https://github.com/rakeshadhithya/crudwithjdbc)
+- [crudwithjdbc](https://github.com/rakeshadhithya/crudwithjdbc)
 
 - [crudwithhibernate](https://github.com/rakeshadhithya/crudwithhibernate)
 
